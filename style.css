@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 1rem;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 2rem;
+    background-color:blueviolet;
+    margin: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .project {
+    margin-bottom: 1rem;
+  }
+  .mad{
+    margin-left: 500px;
+    font-size: xx-large;
+    color: blue;
+    text-decoration: underline;
+  }
+  .mp{
+    margin-left: 100px;
+    font-style: italic;
+    font-size: x-large;
+  }
+  .mk{
+    background-color: greenyellow;
+  }
+  .gh{
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
+    color: aquamarine;
+  }
+  .jk{
+    margin-left: 250px;
+    font-size: x-large;
+  }
+  .hs{
+    background-color: red;
+  }
+  .dg{
+    text-align: center;
+    font-size: xx-large;
+    color: yellow;
+    text-decoration: underline;
+  }
+  .hj{
+    text-align: center;
+    text-decoration: underline;
+    color:green;
+    background-color: #fff;
+  }
+  .gl{
+    text-align: center;
+    text-decoration: underline;
+    color: orangered
+  }
+  .dd{
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
+    color: orange;
+  }
+  .hi{
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
+    color: red;
+  }
